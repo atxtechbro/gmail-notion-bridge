@@ -1,0 +1,9 @@
+[run]
+source = 
+    pubsub
+    gmail
+    notion
+
+[report]
+show_missing = true
+skip_covered = true 
