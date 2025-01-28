@@ -1,5 +1,9 @@
 # Gmail-Notion Bridge Core
 
+## Cloud Deployment
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 ```mermaid
 flowchart LR
     Gmail -->|Label Changes| PubSub[Pub/Sub]
